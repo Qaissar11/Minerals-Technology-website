@@ -11,8 +11,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Minerals & Technology',
-  tagline: 'Minerals & Technlogy Website',
-  favicon: 'img/favicon.ico',
+  tagline: 'Official Website',
+  favicon: 'img/logo.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -85,7 +85,7 @@ const config = {
         title: 'Minerlas & Technology',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         items: [
           {

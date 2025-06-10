@@ -1,4 +1,4 @@
-.features {
+/*.features {
   display: flex;
   align-items: center;
   padding: 2rem 0;
@@ -6,6 +6,37 @@
 }
 
 .featureSvg {
-  height: 200px;
-  width: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%; 
+  height: auto;
+}*/
+
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.cardLink {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+  cursor: pointer;
+}
+
+.card {
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.cardLink:hover .card,
+.cardLink:focus .card {
+  transform: scale(1.05);
+  box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+  z-index: 2;
 }
