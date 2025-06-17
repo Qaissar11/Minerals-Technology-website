@@ -1,10 +1,7 @@
-## 0.0.7-alpha(coming soon)
-### __desc:__
-huge update
-### __news:__
+## 0.0.7-alpha(17.06.2025)
+- added russian translate to game
 
-___Screenshots___
-___by Qaissar11 & kaabaaa__
+___by Qaissar11___
 
 ---
 
