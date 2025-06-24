@@ -1,3 +1,20 @@
+## 0.0.8-alpha(24.06.2025-coming soon):
+### Big Oil Update
+
+- __oil:__
+  - added anti-oil costume
+    - has custom render type(coming soon feature)
+  - added oil poisoning effect.
+    - damage changes in dependents of game difficulty
+    - it has translate to russian and english
+    - it has image(custom texture)
+  - added oil particles
+    - it has custom texture and logic
+
+___by Qaissar 11 & kaabaaa___
+
+---
+
 ## 0.0.7-alpha(17.06.2025)
 - added russian translate to game
 
