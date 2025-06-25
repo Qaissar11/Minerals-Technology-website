@@ -9,7 +9,7 @@
     - it has translate to russian and english
     - it has image(custom texture)
   - added oil particles
-    - it has texture and logic
+    - it has icon texture and logic
 
 ___by Qaissar 11 & kaabaaa___
 
